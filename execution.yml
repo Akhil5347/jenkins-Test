@@ -8,7 +8,7 @@ execution:
   
   
   scenario: Choose Flight
-Scenarios:
+scenarios:
   Choose Flight:
     requests:
     - label: blazedemo
